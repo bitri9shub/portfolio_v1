@@ -35,7 +35,7 @@ export const experiences: Experience[] = [
     {
         period: "June 2026 - 1 Month",
         company: "Valtic",
-        description: "Data Engineering - Assistance with ETL design, UNSPSC categorization.",
+        description: "Data Engineering - Assistance with ETL design, UNSPSC categorization, AI integration with ollama, Python developement mainly with Pandas.",
     },
 ];
 
