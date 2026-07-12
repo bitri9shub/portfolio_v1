@@ -1,5 +1,5 @@
 import type { IconType } from "react-icons";
-import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaFileAlt } from "react-icons/fa";
 
 //  Navigation 
 
@@ -89,5 +89,10 @@ export const socialLinks: SocialLink[] = [
         platform: "Github",
         url: "https://github.com/bitri9shub",
         icon: FaGithub,
+    },
+    {
+        platform: "Resume",
+        url: "https://drive.google.com/drive/folders/1TTwBgdVSI4kZhH8wDTm_0M6fHyv0dcoB",
+        icon: FaFileAlt,
     },
 ];
