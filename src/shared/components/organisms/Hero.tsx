@@ -24,7 +24,7 @@ function Hero() {
                 <div>STATUS: ACTIVE</div>
             </Button>
             <Button variant="outlined" className="text-sm sm:text-base">
-                LAT: 34.0522 N
+                LAT: 33.5899 N
             </Button>
         </div>
     </section>
