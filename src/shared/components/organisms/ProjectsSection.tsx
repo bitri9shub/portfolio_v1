@@ -29,14 +29,16 @@ function ProjectsSection() {
                                     </div>
                                 </div>
                                 <p className="flex-1">{project.description}</p>
-                                <Button
-                                    variant="outlined"
-                                    className="w-full font-bold hover:text-white hover:bg-black hover:cursor-pointer hover:border-2 hover:border-white"
-                                >
-                                    <a href={project.url} target="_blank" rel="noopener noreferrer">
-                                        View Project
-                                    </a>
-                                </Button>
+                                <a href={project.url} target="_blank">
+                                    <Button
+                                        variant="outlined"
+                                        className="w-full font-bold hover:text-white hover:bg-black hover:cursor-pointer hover:border-2 hover:border-white"
+                                    >
+                                        <div rel="noopener noreferrer">
+                                            View Project
+                                        </div>
+                                    </Button>
+                                </a>
                             </div>
                         </Card>
                     ))}
