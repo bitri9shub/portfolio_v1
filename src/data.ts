@@ -65,7 +65,7 @@ export interface Project {
 
 export const projects: Project[] = [
     {
-        name: "STRUCTURING NOTES",
+        name: "WORKSPACE PLANNER",
         year: "2026",
         description: "A follow up system to take and structure notes.",
         url: "https://github.com/bitri9shub/empirebuild",
