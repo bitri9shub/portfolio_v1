@@ -67,7 +67,7 @@ export const projects: Project[] = [
     {
         name: "WORKSPACE PLANNER",
         year: "2026",
-        description: "A follow up system to take and structure notes.",
+        description: "A follow up system to take, structure notes and schedule your life.",
         url: "https://github.com/bitri9shub/empirebuild",
     },
     {
