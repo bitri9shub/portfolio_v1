@@ -1,0 +1,18 @@
+/* src/index.css */
+@import "tailwindcss";
+
+@import "@fontsource/space-mono/400.css";
+@import "@fontsource/space-mono/700.css";
+@import "@fontsource/hanken-grotesk/400.css";
+@import "@fontsource/hanken-grotesk/500.css";
+@import "@fontsource/hanken-grotesk/600.css";
+@import "@fontsource/hanken-grotesk/700.css";
+
+@theme {
+  --font-mono: "Space Mono", monospace;
+  --font-sans: "Hanken Grotesk", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
