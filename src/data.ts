@@ -87,7 +87,7 @@ export const socialLinks: SocialLink[] = [
     },
     {
         platform: "Github",
-        url: "https://www.linkedin.com/in/ahmed-lamghari-ba62453b1/",
+        url: "https://github.com/bitri9shub",
         icon: FaGithub,
     },
 ];
