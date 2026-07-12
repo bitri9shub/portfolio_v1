@@ -65,6 +65,12 @@ export interface Project {
 
 export const projects: Project[] = [
     {
+        name: "STRUCTURING NOTES",
+        year: "2026",
+        description: "A follow up system to take and structure notes.",
+        url: "https://github.com/bitri9shub/empirebuild",
+    },
+    {
         name: "PORTFOLIO",
         year: "2026",
         description: "A single-page site built to hold a resume, background, and a way to get in touch.",
