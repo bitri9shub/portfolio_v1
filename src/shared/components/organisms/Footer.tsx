@@ -16,7 +16,7 @@ function Footer() {
     // const { data: socialLinks, isLoading } = useFetchData(apiServices.getSocialLinks);
 
     return (
-        <footer className="container mx-auto font-mono pb-15 px-5">
+        <footer id="connect" className="container mx-auto font-mono pb-15 px-5">
             <section className="flex flex-col gap-10">
                 <div className="flex justify-center">
                     <h2>
