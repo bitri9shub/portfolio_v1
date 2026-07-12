@@ -67,7 +67,7 @@ export const projects: Project[] = [
         name: "PORTFOLIO",
         year: "2026",
         description: "A single-page site built to hold a resume, background, and a way to get in touch.",
-        url: "https://lamghariahmed.vercel.app/",
+        url: "https://github.com/bitri9shub/portfolio_v1",
     }
 ];
 
